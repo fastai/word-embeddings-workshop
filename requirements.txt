@@ -1,4 +1,3 @@
-pickle
 keras
 tensorflow
 jupyter
