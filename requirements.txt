@@ -1,4 +1,3 @@
-bcolz
 pickle
 keras
 tensorflow
