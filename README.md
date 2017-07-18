@@ -1,5 +1,5 @@
 This is the repository for the word embeddings session at the 
-[Practical AI for Women day-long event](https://www.eventbrite.com/e/practical-ai-for-female-engineers-product-managers-and-designers-tickets-34805104003).
+[Practical AI for Women day-long event](https://www.eventbrite.com/e/practical-ai-for-female-engineers-product-managers-and-designers-tickets-34805104003).  A video of the workshop is [available here](https://www.youtube.com/watch?v=25nC0n9ERq4).
 
 The session will include a presentation, as well as a demo in Python.  Below are instructions on how to set up the demo yourself, 
 if you choose. If you are not comfortable doing so or don't code, no problem, you will still get a lot out of the session.
